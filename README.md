@@ -30,6 +30,6 @@
     <h1>TRANG CHỦ</h1>
     <p>Trương Đình Huy điểm danh aka LorkyPham </p>
     <p> Sở thích: thích mọi thứ kể cả con trai </p>
-    <img src="https://drive.google.com/file/d/1Y65VPLYrPMppGjHh0-HNplXdSeNhG34g/view?usp=sharing" alt="Cybertruck Image">
+    <img src="https://drive.google.com/file/d/1Y65VPLYrPMppGjHh0-HNplXdSeNhG34g/view?usp=sharing" alt="ảnh con chó béo">
 </body>
 </html>
